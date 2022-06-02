@@ -1,0 +1,45 @@
+Name: Yoni
+Phone: 11111111
+IC: 12345
+Car: WLN7812
+Brand: PROTON
+Model: SAGA
+Hour: 5
+Fare: 30$
+--------------------------
+Name: Yoni
+Phone: 11111111
+IC: 12345
+Car: LA34
+Brand: TOYOTA
+Model: VIOS
+Hour: 11
+Fare: 77$
+--------------------------
+Name: Yoni
+Phone: 11111111
+IC: 12345
+Car: AEX7954
+Brand: PERODUA
+Model: AXIA
+Hour: 10
+Fare: 90$
+--------------------------
+Name: Yoni
+Phone: 11111111
+IC: 12345
+Car: WLN7812
+Brand: PROTON
+Model: SAGA
+Hour: 1
+Fare: 5$
+--------------------------
+Name: Yoni
+Phone: 11111111
+IC: 12345
+Car: WLN7812
+Brand: PROTON
+Model: SAGA
+Hour: 12
+Fare: 108$
+--------------------------
